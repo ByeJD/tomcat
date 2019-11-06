@@ -21,6 +21,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -30,6 +33,7 @@
   </component>
   <component name="ProjectId" id="1Srf1v0nWifjvDvoBxHbedaoXcD" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
@@ -197,7 +201,7 @@
       <workItem from="1572342120725" duration="4537000" />
       <workItem from="1572403282577" duration="5843000" />
       <workItem from="1572791509521" duration="15987000" />
-      <workItem from="1572881570282" duration="3296000" />
+      <workItem from="1572881570282" duration="3539000" />
     </task>
     <servers />
   </component>
