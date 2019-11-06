@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f04167a-3883-4e9f-9a71-e2a0086f7fb5" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="180" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="tomcat" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/software/apache-maven-3.5.3-bin/apache-maven-3.5.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Srf1v0nWifjvDvoBxHbedaoXcD" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/ud-git-new-reposit/hr-saas/hr-saas" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\code\tomcat\tomcat\webroot" />
+      <recent name="C:\Users\11395\IdeaProjects\tomcat\src" />
+      <recent name="C:\Users\11395\IdeaProjects\tomcat\src\main\java" />
+      <recent name="C:\Users\11395\IdeaProjects\tomcat\src\main" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\tomcat\tomcat\webroot" />
+      <recent name="C:\Users\11395\IdeaProjects\tomcat\src\main\java\com\quan\chapter2" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.quan.chapter2" />
+      <recent name="com.quan" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.quan.chapter2" />
+      <recent name="com.quan" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ServletProcessor1">
+    <configuration name="HttpServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.quan.chapter1.HttpServer" />
+      <module name="tomcat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.quan.chapter1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HttpServer1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.quan.chapter2.HttpServer1" />
+      <module name="tomcat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.quan.chapter2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServletProcessor1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.quan.chapter2.ServletProcessor1" />
+      <module name="tomcat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.quan.chapter2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.quan.Test" />
+      <module name="tomcat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <module name="tomcat" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tomcat [clean,compile]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="compile" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.HttpServer" />
+      <item itemvalue="Application.HttpServer1" />
+      <item itemvalue="Application.ServletProcessor1" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Maven.tomcat [clean,compile]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ServletProcessor1" />
+        <item itemvalue="Application.HttpServer1" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Maven.tomcat [clean,compile]" />
+        <item itemvalue="Application.HttpServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f04167a-3883-4e9f-9a71-e2a0086f7fb5" name="Default Changelist" comment="" />
+      <created>1572326173237</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572326173237</updated>
+      <workItem from="1572326178613" duration="226000" />
+      <workItem from="1572326428715" duration="60000" />
+      <workItem from="1572326522168" duration="27000" />
+      <workItem from="1572326571986" duration="4211000" />
+      <workItem from="1572333837603" duration="958000" />
+      <workItem from="1572334869247" duration="5836000" />
+      <workItem from="1572342120725" duration="4537000" />
+      <workItem from="1572403282577" duration="5843000" />
+      <workItem from="1572791509521" duration="15987000" />
+      <workItem from="1572881570282" duration="3296000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/quan/chapter1/HttpClient.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/quan/chapter1/Request.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/quan/Test.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/quan/Test.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/quan/chapter2/ServletProcessor1.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/tomcat$HttpServer.ic" NAME="HttpServer Coverage Results" MODIFIED="1572341942594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.quan.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/tomcat$HttpServer__1_.ic" NAME="HttpServer (1) Coverage Results" MODIFIED="1572792755262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.quan.chapter2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/tomcat$ServletProcessor1.ic" NAME="ServletProcessor1 Coverage Results" MODIFIED="1572881082255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.quan.chapter2.*</FILTER>
+    </SUITE>
+  </component>
+</project>
